@@ -20,6 +20,8 @@ These libraries provide essential functionalities required by the scanner and ma
 Database:
 The database stores scan results, configurations, and other essential data. It ensures data persistence and retrieval for analysis and reporting purposes.
 
+Greenbone is a company that developed and maintains the open-source vulnerability scanning tool called OpenVAS. OpenVAS was originally a fork of the Nessus scanning tool. While OpenVAS is the name many people still use, it's now part of a larger vulnerability management system called Greenbone Vulnerability Management (GVM).
+
 GreenBone Download Link::
    https://files.greenbone.net/download/delivery/website-trials-22.04-abdk-greenbone/Greenbone-Enterprise-TRIAL-24.10.2-VMware-Workstation.ova
 
